@@ -8,5 +8,4 @@ An HTTP status code reference inspired by HTTP cats - showcasing responses using
 - **Backend**: Supabase (PostgreSQL)
 - **Emote Source**: 7TV
 
-🌐 Live Demo:
-Check out the live version at: https://httpeeepo.vercel.app
+🌐 Live Demo: https://httpeepo.vercel.app/
